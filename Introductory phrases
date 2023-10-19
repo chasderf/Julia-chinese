@@ -1,0 +1,31 @@
+julia> using Printf
+
+julia> Hello = "Ni hao"
+"Ni hao"
+
+julia> How_Are_You = "Ni hao ma"
+"Ni hao ma"
+
+julia> Very_Well = "Hen hao"
+"Hen hao"
+
+julia> Not_So_Good = "bu tai hao"
+"bu tai hao"
+
+julia> Long_Time_No_See = "haojiu bu jian"
+"haojiu bu jian"
+
+julia> Good_Morning = "Zaoshang hao"
+"Zaoshang hao"
+
+julia> Good_Evening = "Wanshang hao"
+"Wanshang hao"
+
+julia> Good_Bye = "Zai jian"
+"Zai jian"
+
+
+
+
+julia> print(Good_Bye)
+Zai jian
